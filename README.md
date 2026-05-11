@@ -6,7 +6,7 @@ This repository contains the source code for my personal portfolio website, buil
 
 Visit my portfolio here:
 
-[https://cronosus99.github.io](https://cronosus99.github.io/)
+[cronosus99.github.io](https://cronosus99.github.io/)
 
 ## About This Portfolio
 
