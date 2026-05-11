@@ -12,20 +12,20 @@ I am a Computer Science graduate and Master's in Data Science candidate at Belle
 
 ## Projects
 
-### Predictive Maintenance Machine Learning Project
+### Predictive Maintenance
 Built classification models including Logistic Regression, Random Forest, and XGBoost to predict rare equipment failures using highly imbalanced sensor data.
 
-[View Project](https://github.com/yourusername/predictive-maintenance)
+[View Project](https://github.com/Cronosus99/predictive-maintenance-ml)
 
-### Generative AI for CNC Programming
+### Heart Failure Prediction
+Built classification models including Logistic Regression, Random Forest, and Gradient Boosting to predict the risk of heart failure using clinical patient data..
+
+[View Project](https://github.com/Cronosus99/heart-failure-prediction-ml)
+
+### Generative AI for CNC Programming (In progress)
 Developing a fine-tuned language model to generate, explain, and debug CNC G-code for manufacturing applications.
 
-[View Project](https://github.com/yourusername/cnc-generative-ai)
-
-### OpenAI Fine-Tuning Experiments
-Created custom GPT models using OpenAI fine-tuning and evaluated model performance and costs.
-
-[View Project](https://github.com/yourusername/openai-fine-tuning)
+[View Project]()
 
 ---
 
@@ -39,13 +39,11 @@ Created custom GPT models using OpenAI fine-tuning and evaluated model performan
 - Power BI
 - OpenAI API
 - Git and GitHub
-- HTML/CSS
-- R
 
 ---
 
 ## Contact
 
-- LinkedIn: https://linkedin.com/in/yourprofile
-- GitHub: https://github.com/yourusername
-- Email: your.email@example.com
+- [LinkedIn](https://www.linkedin.com/in/kevin-danh-4514ba273/)
+- [GitHub](https://github.com/Cronosus99)
+- Email: cronosus99@gmail.com
