@@ -32,7 +32,7 @@ The portfolio highlights:
 ## Repository Structure
 
 ```text
-kevindanh.github.io/
+cronosus99.github.io/
 │
 ├── index.html        # Main website page
 ├── style.css         # Custom styling
