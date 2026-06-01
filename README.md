@@ -38,5 +38,6 @@ cronosus99.github.io/
 ├── style.css         # Custom styling
 ├── script.js         # JavaScript functionality
 ├── README.md         # Project documentation
-├── Kevin_Danh_Resume.pdf
+├── kevin_danh_portfolio_resume.pdf
 └── images/           # Images and other assets
+```
