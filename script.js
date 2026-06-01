@@ -10,3 +10,5 @@ document.querySelectorAll('.nav-links a').forEach((link) => {
     navLinks.classList.remove('active');
   });
 });
+
+document.getElementById("year").textContent = new Date().getFullYear();
